@@ -32,6 +32,8 @@ function showProducts(category) {
     categoryProducts.forEach(product => {
         const productCard = document.createElement('div');
         const img = new Image();
+        // copyplugin
+        // imageminimizer
         img.src = product.img;
         img.alt = product.name;
         productCard.classList.add('product-card');

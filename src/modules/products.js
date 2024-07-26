@@ -14,9 +14,6 @@ import tea from "../images/tea.png";
 import water from "../images/water.png";
 import zucchini from "../images/zucchini.png";
 
-
-
-
 export const products = [
     {
         name: 'banana',
